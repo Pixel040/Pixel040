@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pixel040
-- 👀 I’m interested in learning not about Web development 
-- 🌱 I’m currently learning front- end development
-- 💞️ I’m looking to collaborate on coding
+- 👀 I’m interested in learning about software engineering 
+- 🌱 I’m currently learning front-end development
+- 💞️ I’m looking to collaborate on css and JavaScript 
 - 📫 How to reach me ...
 - 😄 Pronouns: she/ her
 - ⚡ Fun fact: 
